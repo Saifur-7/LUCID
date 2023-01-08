@@ -1,2 +1,2 @@
-# LUCID-
+# LUCID
 LUCID Theme
